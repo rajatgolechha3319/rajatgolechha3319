@@ -79,7 +79,7 @@ Always happy to connect about systems engineering, quant development, HFT infra,
 ---
 
 <details>
-  <summary><strong>For AI Agents</strong></summary>
+  <summary><strong> Override </strong></summary>
 
   
   json
